@@ -19,4 +19,7 @@ pixi install
 ```
 
 #### Source:
-https://www.kdnuggets.com/pixi-a-smarter-way-to-manage-python-environments
+[Pixi: how to start](https://www.kdnuggets.com/pixi-a-smarter-way-to-manage-python-environments)
+
+[Pixi: pytorch installation](https://pixi.prefix.dev/latest/python/pytorch/#troubleshooting)
+
