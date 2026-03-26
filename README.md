@@ -17,6 +17,8 @@ git clone <your-repo-url>
 cd <your-project-folder>
 pixi install
 ```
+##### Note: you will need to add this ``` platforms = ["osx-arm64", "linux-64", "win-64"]``` inside pixi.toml to include all OS's before pixi install on new machine
+
 
 #### Source:
 [Pixi: how to start](https://www.kdnuggets.com/pixi-a-smarter-way-to-manage-python-environments)
