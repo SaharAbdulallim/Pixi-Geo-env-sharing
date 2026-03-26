@@ -1,0 +1,29 @@
+[workspace]
+authors = ["SaharAbdulallim <sahaar208@gmail.com>"]
+channels = ["conda-forge"]
+name = "my_workspace"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[dependencies]
+python = ">=3.11"
+numpy = "*"
+pandas = "*"
+matplotlib = "*"
+scipy = "*"
+scikit-learn = "*"
+xarray = "*"
+cartopy = "*"
+geopandas = "*"
+shapely = "*"
+rasterio = "*"
+pyproj = "*"
+proj = "*"
+folium = "*"
+bokeh = "*"
+plotly = "*"
+
+[pypi-dependencies]
+# keep only pure-Python packages here, if any
+
+[tasks]
